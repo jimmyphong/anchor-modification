@@ -13,3 +13,7 @@ Change two line as your config
 "FILES_ROOT":          "anchor/content/",
 
 "RETURN_URL_PREFIX":   "http://localhost:8080/",
+
+
+Client website working nicely for using this modification
+https://www.havingsex.club (Note: site contains with adult content)
