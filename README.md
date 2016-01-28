@@ -9,5 +9,7 @@ How to install !
 
 3. Open file anchor/views/assets/js/fileman/conf.json
 Change two line as your config 
+
 "FILES_ROOT":          "anchor/content/",
+
 "RETURN_URL_PREFIX":   "http://localhost:8080/",
